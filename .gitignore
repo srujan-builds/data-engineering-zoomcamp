@@ -1,0 +1,7 @@
+.DS_Store
+
+module-01/terraform/.terraform/
+module-01/terraform/keys/
+module-01/terraform/*.tfstate
+module-01/terraform/*.tfstate.backup
+
