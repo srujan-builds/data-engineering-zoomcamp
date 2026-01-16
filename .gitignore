@@ -5,3 +5,7 @@ module-01/terraform/keys/
 module-01/terraform/*.tfstate
 module-01/terraform/*.tfstate.backup
 
+module-01/docker/venv
+module-01/docker/demo_script.ipynb
+
+
